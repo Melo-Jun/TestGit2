@@ -24,4 +24,8 @@ public class HelloServlet extends HttpServlet {
 
     public void destroy() {
     }
+
+    public static void main(String[] args) {
+        System.out.println(11);
+    }
 }
