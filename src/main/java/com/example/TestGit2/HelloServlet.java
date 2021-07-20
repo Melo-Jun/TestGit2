@@ -30,7 +30,6 @@ public class HelloServlet extends HttpServlet {
         System.out.println(222);
         System.out.println(12);
         System.out.println(123);
-        System.out.println(111);
 
     }
 }
